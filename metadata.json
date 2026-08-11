@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Review Bot",
+  "description": "Senior Staff AI Code Reviewer using Google Gemini API to audit diffs, check security, performance, and PR webhooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
